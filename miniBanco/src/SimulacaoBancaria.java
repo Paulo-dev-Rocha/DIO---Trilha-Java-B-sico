@@ -37,7 +37,7 @@ public class SimulacaoBancaria {
                 default:
                     break;
                     
-            }
-        }
-    }scanner.close();
+            } scanner.close();
+         }
+    }
 }
